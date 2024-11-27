@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="24" viewBox="0 0 16 24" fill="white">
+  <!-- Top horizontal line -->
+  <rect x="0" y="0" width="8" height="2" fill="white" />
+  <!-- Vertical line -->
+  <rect x="3" y="2" width="2" height="12" fill="white" />
+  <!-- Bottom horizontal line -->
+  <rect x="0" y="14" width="8" height="2" fill="white" />
+</svg>
+
+
